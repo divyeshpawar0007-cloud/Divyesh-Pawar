@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on **Data Analytics projects using Power BI, SQL, and Python**<br>🤝 I’m looking to collaborate on **real-world data analysis and dashboard projects**<br>🆘 I’m looking for help with **advanced SQL, Python for data analysis, and real industry projects**<br>🌱 I’m currently learning **advanced data visualization, Python libraries, and business analytics**<br>💬 Ask me about **Excel, Power BI dashboards, SQL queries, and data cleaning**<br>⚡ Fun fact: **I enjoy turning raw data into meaningful visual stories**
-
+<img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
